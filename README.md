@@ -32,7 +32,7 @@
 1. 克隆仓库：
 
 ```bash
-git clone https://github.com/yourusername/academic-homepage-generator.git
+git clone https://github.com/Yaxin9Luo/auto_homepage.git
 cd academic-homepage-generator
 ```
 
