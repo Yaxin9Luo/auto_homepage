@@ -216,6 +216,6 @@ git push -u origin main
 
 欢迎贡献代码、报告问题或提出改进建议！请通过GitHub Issues或Pull Requests参与项目开发。
 
-## 许可证
+## 开源
 
-本项目采用MIT许可证。详情请参阅LICENSE文件。
+本项目完全开源。
