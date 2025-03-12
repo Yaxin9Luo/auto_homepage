@@ -1,0 +1,13 @@
+
+# Ignore cache directories
+__pycache__/
+cache/
+
+# Ignore output directory
+output/
+
+# Ignore user_data.json
+user_data.json
+
+# Ignore ini files
+__init__.py

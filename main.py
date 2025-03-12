@@ -3,7 +3,7 @@ import json
 import os
 from pathlib import Path
 
-from .manager import HomepageManager
+from manager import HomepageManager
 
 
 async def get_user_input():

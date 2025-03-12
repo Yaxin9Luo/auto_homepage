@@ -11,15 +11,15 @@ from rich.console import Console
 
 from agents import Agent, Runner, custom_span, gen_trace_id, trace
 
-from .agents.academic_content_agent import academic_content_agent
-from .agents.code_review_agent import code_review_agent
-from .agents.deploy_agent import deploy_agent
-from .agents.seo_agent import seo_agent
-from .agents.text_polish_agent import text_polish_agent
-from .agents.triage_agent import TaskType, triage_agent
-from .agents.ui_beautify_agent import ui_beautify_agent
-from .agents.web_code_agent import web_code_agent
-from .printer import Printer
+from agent.academic_content_agent import academic_content_agent
+from agent.code_review_agent import code_review_agent
+from agent.deploy_agent import deploy_agent
+from agent.seo_agent import seo_agent
+from agent.text_polish_agent import text_polish_agent
+from agent.triage_agent import TaskType, triage_agent
+from agent.ui_beautify_agent import ui_beautify_agent
+from agent.web_code_agent import web_code_agent
+from printer import Printer
 
 
 class HomepageManager:
